@@ -10,7 +10,7 @@ XAMPP: Entorno de desarrollo local que incluye Apache, MySQL y PHP.
 #Instalación
 Clona este repositorio en tu máquina local.
 Configura XAMPP y asegúrate de que Apache y MySQL estén funcionando.
-Importa la base de datos creada en el curso (tambien se ha proporcionado la que traia el profe para su docencia)
+Importa la base de datos creada en el curso (tambien se ha proporcionado la que traia el Instructor para su presentación)
 Tambien puedes utilizar que la fui modificando para personalizar mi proyecto 
 **O crea una nueva base de datos para crear tu tienda tienda online personalizada.**
 Actualiza las credenciales de conexión a la base de datos en el archivo PHP correspondiente.
@@ -26,12 +26,12 @@ Abre la aplicación en tu navegador utilizando **http://localhost/lamp/nombre-de
 #Contribución
 Si deseas utilizar este proyecto como una guia, para crear tu propia tienda online sigue estos pasos:
 
-**1. Haz un fork del repositorio.**
-**2. Crea tu base de datos.**
-**3. Administra tu bd desde la app.**
-**4. Realiza tus modificaciones.**
+**1. Haz un fork del repositorio.**  
+**2. Crea tu base de datos.**  
+**3. Administra tu bd desde la app.**  
+**4. Realiza tus modificaciones.**  
 **5. Navega por tu tienda online.**
 
    **Autores**
-   Rosalia Bravo Valencia
-   Instructor del curso en Barcelona Activa.
+   Rosalia Bravo Valencia  
+   Instructor del curso en Barcelona Activa.  
