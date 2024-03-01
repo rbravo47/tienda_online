@@ -1,0 +1,1 @@
+<p>Això es un include, d’aquesta manera evitarem tenir que repetir el codi.</p>
