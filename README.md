@@ -32,6 +32,6 @@ Si deseas utilizar este proyecto como una guia, para crear tu propia tienda onli
 **4. Realiza tus modificaciones.**  
 **5. Navega por tu tienda online.**
 
-   **Autores**
+   **Autores**  
    Rosalia Bravo Valencia  
    Instructor del curso en Barcelona Activa.  
